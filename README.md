@@ -72,8 +72,11 @@ To run tests:
 dotnet test
 ```
 
+## Project URL
+For more details, visit the project page: [Expense Tracker](https://roadmap.sh/projects/expense-tracker)
+
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss the proposed modifications.
 
 ## License
-MIT License © 2025 Your Name
+MIT License © 2025 Yana Makogon
