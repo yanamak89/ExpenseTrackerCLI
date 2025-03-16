@@ -1,0 +1,27 @@
+# Rider + C# .NET .gitignore
+
+# Build artifacts
+bin/
+obj/
+
+# Rider project settings
+.idea/
+*.iml
+/.idea/workspace.xml
+
+# Resharper & Rider Caches
+/.ReSharper*/
+*/_ReSharper.Caches/
+*.sln.DotSettings.user
+
+# NuGet Packages
+packages/
+*.nupkg
+*.snupkg
+
+# User-specific settings
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
